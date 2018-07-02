@@ -1,0 +1,531 @@
+{
+  "arch": "x86_64",
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/mbonix/win-64",
+  "constrains": [],
+  "depends": [
+    "python 3.6*"
+  ],
+  "extracted_package_dir": "C:\\Users\\XBBNQVM\\miniconda3\\pkgs\\blpapi-3.9.0-py36_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/blpapi-3.9.0-py3.6.egg-info",
+    "Lib/site-packages/blpapi/__init__.py",
+    "Lib/site-packages/blpapi/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/abstractsession.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/compat.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/constant.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/datatype.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/datetime.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/diagnosticsutil.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/element.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/event.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/eventdispatcher.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/eventformatter.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/exception.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/highresclock.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/identity.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/internals.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/logging.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/message.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/name.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/providersession.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/request.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/resolutionlist.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/schema.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/service.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/session.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/sessionoptions.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/subscriptionlist.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/testtools.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/topic.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/topiclist.cpython-36.pyc",
+    "Lib/site-packages/blpapi/__pycache__/utils.cpython-36.pyc",
+    "Lib/site-packages/blpapi/_internals.cp36-win_amd64.pyd",
+    "Lib/site-packages/blpapi/abstractsession.py",
+    "Lib/site-packages/blpapi/compat.py",
+    "Lib/site-packages/blpapi/constant.py",
+    "Lib/site-packages/blpapi/datatype.py",
+    "Lib/site-packages/blpapi/datetime.py",
+    "Lib/site-packages/blpapi/diagnosticsutil.py",
+    "Lib/site-packages/blpapi/element.py",
+    "Lib/site-packages/blpapi/event.py",
+    "Lib/site-packages/blpapi/eventdispatcher.py",
+    "Lib/site-packages/blpapi/eventformatter.py",
+    "Lib/site-packages/blpapi/exception.py",
+    "Lib/site-packages/blpapi/highresclock.py",
+    "Lib/site-packages/blpapi/identity.py",
+    "Lib/site-packages/blpapi/internals.py",
+    "Lib/site-packages/blpapi/logging.py",
+    "Lib/site-packages/blpapi/message.py",
+    "Lib/site-packages/blpapi/name.py",
+    "Lib/site-packages/blpapi/providersession.py",
+    "Lib/site-packages/blpapi/request.py",
+    "Lib/site-packages/blpapi/resolutionlist.py",
+    "Lib/site-packages/blpapi/schema.py",
+    "Lib/site-packages/blpapi/service.py",
+    "Lib/site-packages/blpapi/session.py",
+    "Lib/site-packages/blpapi/sessionoptions.py",
+    "Lib/site-packages/blpapi/subscriptionlist.py",
+    "Lib/site-packages/blpapi/testtools.py",
+    "Lib/site-packages/blpapi/topic.py",
+    "Lib/site-packages/blpapi/topiclist.py",
+    "Lib/site-packages/blpapi/utils.py"
+  ],
+  "fn": "blpapi-3.9.0-py36_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\XBBNQVM\\miniconda3\\pkgs\\blpapi-3.9.0-py36_0",
+    "type": 1
+  },
+  "md5": "f23884d5d948791e15ef4fa1d45279fb",
+  "name": "blpapi",
+  "package_tarball_full_path": "C:\\Users\\XBBNQVM\\miniconda3\\pkgs\\blpapi-3.9.0-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/blpapi-3.9.0-py3.6.egg-info",
+        "path_type": "hardlink",
+        "sha256": "2d984631a1f405662204dadf8036bf9f0671cbccf48a0a8f3f91bb095093578d",
+        "sha256_in_prefix": "2d984631a1f405662204dadf8036bf9f0671cbccf48a0a8f3f91bb095093578d",
+        "size_in_bytes": 541
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "426a348ee1a91d42ed23c4a8dcb68c0c00098e9b379f59d327e366d053d302b5",
+        "sha256_in_prefix": "426a348ee1a91d42ed23c4a8dcb68c0c00098e9b379f59d327e366d053d302b5",
+        "size_in_bytes": 1991
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "869ab8122968dd743dd03564675e510aad5b96179514782933e9c6ab4cd6f4a0",
+        "sha256_in_prefix": "869ab8122968dd743dd03564675e510aad5b96179514782933e9c6ab4cd6f4a0",
+        "size_in_bytes": 2360
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/abstractsession.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "e851dbc05139aacf4e5884e54175eb53dc3579983f0b906662ab483f31e84527",
+        "sha256_in_prefix": "e851dbc05139aacf4e5884e54175eb53dc3579983f0b906662ab483f31e84527",
+        "size_in_bytes": 12228
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/compat.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "6f2b929dbea20183330a37a15da040077cf07816d7fa4f151ded2180a3e75ac9",
+        "sha256_in_prefix": "6f2b929dbea20183330a37a15da040077cf07816d7fa4f151ded2180a3e75ac9",
+        "size_in_bytes": 1678
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/constant.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "52a93ea2dbe7d53ab6a40b38876b911922fbd0568d31a4c40cae4ff7e27f871f",
+        "sha256_in_prefix": "52a93ea2dbe7d53ab6a40b38876b911922fbd0568d31a4c40cae4ff7e27f871f",
+        "size_in_bytes": 10359
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/datatype.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "bd0731ae0ebbfa9532c1532a73b6296c9fa0109dee02c96b92554b5bf6a8d07e",
+        "sha256_in_prefix": "bd0731ae0ebbfa9532c1532a73b6296c9fa0109dee02c96b92554b5bf6a8d07e",
+        "size_in_bytes": 3096
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/datetime.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "99b4b7d3f57c651812b54cf8020881fac2e4d625a0817a2a297ddaaab502c4c5",
+        "sha256_in_prefix": "99b4b7d3f57c651812b54cf8020881fac2e4d625a0817a2a297ddaaab502c4c5",
+        "size_in_bytes": 6768
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/diagnosticsutil.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "0064c6f2200d6c3add7d8fb0da6d988f13becacd04883433e52f09efb5c41e3e",
+        "sha256_in_prefix": "0064c6f2200d6c3add7d8fb0da6d988f13becacd04883433e52f09efb5c41e3e",
+        "size_in_bytes": 414
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/element.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "11e8114a92a65163323e2bae08e1eebf3bc83cbb3ad52840567631904369610b",
+        "sha256_in_prefix": "11e8114a92a65163323e2bae08e1eebf3bc83cbb3ad52840567631904369610b",
+        "size_in_bytes": 27108
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/event.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "d1a21856fe2bdf3ed8a4c5895c4bb05e1e228620083390d83bb025bdcd623b71",
+        "sha256_in_prefix": "d1a21856fe2bdf3ed8a4c5895c4bb05e1e228620083390d83bb025bdcd623b71",
+        "size_in_bytes": 11338
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/eventdispatcher.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "f1716fd345e8fe835258cf9e8256c3177f75fb4ae3776345a61f74aaac5ce636",
+        "sha256_in_prefix": "f1716fd345e8fe835258cf9e8256c3177f75fb4ae3776345a61f74aaac5ce636",
+        "size_in_bytes": 4235
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/eventformatter.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "6c8db348947dbac0783185577c560b33ec07576f3224fbd9d57d01f7bede8b62",
+        "sha256_in_prefix": "6c8db348947dbac0783185577c560b33ec07576f3224fbd9d57d01f7bede8b62",
+        "size_in_bytes": 12043
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/exception.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "bda5bc0a74233c06134138e912e097131c4e76ef47c987ac42fb76044cf62cfa",
+        "sha256_in_prefix": "bda5bc0a74233c06134138e912e097131c4e76ef47c987ac42fb76044cf62cfa",
+        "size_in_bytes": 6083
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/highresclock.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "6802c073af78b889c5dbc44067c335646bf8f1c324ea6d197e02322f1ee4d7a3",
+        "sha256_in_prefix": "6802c073af78b889c5dbc44067c335646bf8f1c324ea6d197e02322f1ee4d7a3",
+        "size_in_bytes": 806
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/identity.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "6a8fe625ee4a2f5a12cf27b33a27d309f9d67f6ce901f39347d78bf0b70929a9",
+        "sha256_in_prefix": "6a8fe625ee4a2f5a12cf27b33a27d309f9d67f6ce901f39347d78bf0b70929a9",
+        "size_in_bytes": 6111
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/internals.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "795d249af9e8fa77094d340d23d41aa88335ab4c6101de90af1080424405bf26",
+        "sha256_in_prefix": "795d249af9e8fa77094d340d23d41aa88335ab4c6101de90af1080424405bf26",
+        "size_in_bytes": 71846
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/logging.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "abbbb6a200e5a36cf3986bfd154dd0c1f0186d4ce6d3d3355863b6d5fcf244b0",
+        "sha256_in_prefix": "abbbb6a200e5a36cf3986bfd154dd0c1f0186d4ce6d3d3355863b6d5fcf244b0",
+        "size_in_bytes": 2234
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/message.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "3ea34fa510972c56b84f8ff36c07e068b63b07fc053e54c0b19c6568c8e47342",
+        "sha256_in_prefix": "3ea34fa510972c56b84f8ff36c07e068b63b07fc053e54c0b19c6568c8e47342",
+        "size_in_bytes": 8328
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/name.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "b871cd0e00a93cfc545f52f8aa716fe6b0092b10dbe899be5ff1c595541a5eac",
+        "sha256_in_prefix": "b871cd0e00a93cfc545f52f8aa716fe6b0092b10dbe899be5ff1c595541a5eac",
+        "size_in_bytes": 6067
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/providersession.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "5a84c61d0770d80dfa25d5af70a803bbd2c94e198820a002631151fad2b13998",
+        "sha256_in_prefix": "5a84c61d0770d80dfa25d5af70a803bbd2c94e198820a002631151fad2b13998",
+        "size_in_bytes": 33210
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/request.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "e3bcace2c98ea510b2593ced06ee0d6d6d88ab07c8f5b8dab5843ba8703205c2",
+        "sha256_in_prefix": "e3bcace2c98ea510b2593ced06ee0d6d6d88ab07c8f5b8dab5843ba8703205c2",
+        "size_in_bytes": 4488
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/resolutionlist.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "c5cf9fdbfaa8439700d482b7cc308c8105f63abbd57ca655341de725bee1e8cb",
+        "sha256_in_prefix": "c5cf9fdbfaa8439700d482b7cc308c8105f63abbd57ca655341de725bee1e8cb",
+        "size_in_bytes": 12354
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/schema.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "75f2f680db552d18d8e812c7732d10777841673f1e34293269247e3679a54cd0",
+        "sha256_in_prefix": "75f2f680db552d18d8e812c7732d10777841673f1e34293269247e3679a54cd0",
+        "size_in_bytes": 16891
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/service.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "cc85d49302ea7d5ba0d590fce6023869810fbe78d388142537aaaa793ef44439",
+        "sha256_in_prefix": "cc85d49302ea7d5ba0d590fce6023869810fbe78d388142537aaaa793ef44439",
+        "size_in_bytes": 14167
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/session.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "5f4345bfad6647714237e1b4ded43a8edcc29e60478c0c45a60259fe565846b7",
+        "sha256_in_prefix": "5f4345bfad6647714237e1b4ded43a8edcc29e60478c0c45a60259fe565846b7",
+        "size_in_bytes": 18067
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/sessionoptions.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "f92f1278c2db6a62753546f7a494a20f8deda7bed4bbc9d6eb13b405bd61f1b4",
+        "sha256_in_prefix": "f92f1278c2db6a62753546f7a494a20f8deda7bed4bbc9d6eb13b405bd61f1b4",
+        "size_in_bytes": 23038
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/subscriptionlist.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "75dd86b8f42cf8e3a06647e78b7177caf6acf8d84d2ef49060d4753f9641c9fe",
+        "sha256_in_prefix": "75dd86b8f42cf8e3a06647e78b7177caf6acf8d84d2ef49060d4753f9641c9fe",
+        "size_in_bytes": 12955
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/testtools.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "cb683c5f32f7bea7dbfb803d39c0ca9af1f80e71fe7d4ee7e06932c848396b71",
+        "sha256_in_prefix": "cb683c5f32f7bea7dbfb803d39c0ca9af1f80e71fe7d4ee7e06932c848396b71",
+        "size_in_bytes": 6409
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/topic.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "0f82985f3a26c5aff5443766ce064c03c7c016305d5c61c989472008af6dbba1",
+        "sha256_in_prefix": "0f82985f3a26c5aff5443766ce064c03c7c016305d5c61c989472008af6dbba1",
+        "size_in_bytes": 4345
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/topiclist.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "8e5a90db83282cd80637cb72f93098519d638b3d6c9c3e70cadcb5e369442bc6",
+        "sha256_in_prefix": "8e5a90db83282cd80637cb72f93098519d638b3d6c9c3e70cadcb5e369442bc6",
+        "size_in_bytes": 8834
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/__pycache__/utils.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "90baacf6e5f99d9884afaa5f650c8f370ed13a85f5e471498aca77643bce5cfd",
+        "sha256_in_prefix": "90baacf6e5f99d9884afaa5f650c8f370ed13a85f5e471498aca77643bce5cfd",
+        "size_in_bytes": 4042
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/_internals.cp36-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "7ecdb3a44f3a42746bfe6c29f2f93965e19aeedd545af36b8a309b0345c9af5c",
+        "sha256_in_prefix": "7ecdb3a44f3a42746bfe6c29f2f93965e19aeedd545af36b8a309b0345c9af5c",
+        "size_in_bytes": 359936
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/abstractsession.py",
+        "path_type": "hardlink",
+        "sha256": "108b71672a2c8c32fac9537dbfc4d8b4399efe371bada25b69e49624d3ef604f",
+        "sha256_in_prefix": "108b71672a2c8c32fac9537dbfc4d8b4399efe371bada25b69e49624d3ef604f",
+        "size_in_bytes": 12746
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/compat.py",
+        "path_type": "hardlink",
+        "sha256": "1a7921eaf69c75dc8c5686e971d28fd10525d2b80ef522638ab63dbabf7e2e40",
+        "sha256_in_prefix": "1a7921eaf69c75dc8c5686e971d28fd10525d2b80ef522638ab63dbabf7e2e40",
+        "size_in_bytes": 2275
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/constant.py",
+        "path_type": "hardlink",
+        "sha256": "5519547d5fc40688ca6f04b32a6b77e1bad25eb9e69b1ea47fff347425d7e713",
+        "sha256_in_prefix": "5519547d5fc40688ca6f04b32a6b77e1bad25eb9e69b1ea47fff347425d7e713",
+        "size_in_bytes": 9807
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/datatype.py",
+        "path_type": "hardlink",
+        "sha256": "18969350e846e9bf1bc9ceb3a1c5db72566e4dc4432973e9804cd1b67edd86d4",
+        "sha256_in_prefix": "18969350e846e9bf1bc9ceb3a1c5db72566e4dc4432973e9804cd1b67edd86d4",
+        "size_in_bytes": 3365
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/datetime.py",
+        "path_type": "hardlink",
+        "sha256": "acc4cbdf0cdeaa21628685f2038e3764997a54a5b57600fa9e73b31042a1ac98",
+        "sha256_in_prefix": "acc4cbdf0cdeaa21628685f2038e3764997a54a5b57600fa9e73b31042a1ac98",
+        "size_in_bytes": 7530
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/diagnosticsutil.py",
+        "path_type": "hardlink",
+        "sha256": "7582c88a47cfc3a5b821fc8aaefec653e664d33bd7eaf84f3d3f0afdc8ee5209",
+        "sha256_in_prefix": "7582c88a47cfc3a5b821fc8aaefec653e664d33bd7eaf84f3d3f0afdc8ee5209",
+        "size_in_bytes": 480
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/element.py",
+        "path_type": "hardlink",
+        "sha256": "d5ff14af42e04ea1c1b9dcd5df8e263bf5fd3e7330cb531daddb85346a560d3c",
+        "sha256_in_prefix": "d5ff14af42e04ea1c1b9dcd5df8e263bf5fd3e7330cb531daddb85346a560d3c",
+        "size_in_bytes": 27262
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/event.py",
+        "path_type": "hardlink",
+        "sha256": "d59a7acba61e8f15555c87f431ef025b4b00fc5663ae09255a9fa44a4aa9f23a",
+        "sha256_in_prefix": "d59a7acba61e8f15555c87f431ef025b4b00fc5663ae09255a9fa44a4aa9f23a",
+        "size_in_bytes": 10710
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/eventdispatcher.py",
+        "path_type": "hardlink",
+        "sha256": "e5dbad15403c521f183fcffce11b97ca68acdd757d2ca7a62b5718b071be507b",
+        "sha256_in_prefix": "e5dbad15403c521f183fcffce11b97ca68acdd757d2ca7a62b5718b071be507b",
+        "size_in_bytes": 3657
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/eventformatter.py",
+        "path_type": "hardlink",
+        "sha256": "22d119e020830496d62179cd9b7e0cf8fc71742e9b4c6e4300d22a619eb134a2",
+        "sha256_in_prefix": "22d119e020830496d62179cd9b7e0cf8fc71742e9b4c6e4300d22a619eb134a2",
+        "size_in_bytes": 12578
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/exception.py",
+        "path_type": "hardlink",
+        "sha256": "bcb7847edc2353f080d3e08618d86628ae38ebd69c59afce68a8f36e34e7b89b",
+        "sha256_in_prefix": "bcb7847edc2353f080d3e08618d86628ae38ebd69c59afce68a8f36e34e7b89b",
+        "size_in_bytes": 5125
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/highresclock.py",
+        "path_type": "hardlink",
+        "sha256": "29090e800cfa133505891a342f41c97ee6d15134b982f41a8ee88ba0d49dbe65",
+        "sha256_in_prefix": "29090e800cfa133505891a342f41c97ee6d15134b982f41a8ee88ba0d49dbe65",
+        "size_in_bytes": 618
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/identity.py",
+        "path_type": "hardlink",
+        "sha256": "549154b958caf57d444cf9d7eb30885689101d0d1cba1d906f8c6188ecc1f5a6",
+        "sha256_in_prefix": "549154b958caf57d444cf9d7eb30885689101d0d1cba1d906f8c6188ecc1f5a6",
+        "size_in_bytes": 7195
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/internals.py",
+        "path_type": "hardlink",
+        "sha256": "f655613d96a335ac6e97432d98739ede719854a7c425571f44fafeb44217ac3d",
+        "sha256_in_prefix": "f655613d96a335ac6e97432d98739ede719854a7c425571f44fafeb44217ac3d",
+        "size_in_bytes": 88206
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/logging.py",
+        "path_type": "hardlink",
+        "sha256": "35972adbac68928abea4805259839d33d6f507d683d3e40d9404232a9529994f",
+        "sha256_in_prefix": "35972adbac68928abea4805259839d33d6f507d683d3e40d9404232a9529994f",
+        "size_in_bytes": 2079
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/message.py",
+        "path_type": "hardlink",
+        "sha256": "58de10d3d0a3a006cca3ef0d22400a7ad79cca10724e11668a7336990ab6f1b6",
+        "sha256_in_prefix": "58de10d3d0a3a006cca3ef0d22400a7ad79cca10724e11668a7336990ab6f1b6",
+        "size_in_bytes": 7486
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/name.py",
+        "path_type": "hardlink",
+        "sha256": "64e2185bb5d7ea86d137688512116846b3075424b357495b39a271eaa4b18e1b",
+        "sha256_in_prefix": "64e2185bb5d7ea86d137688512116846b3075424b357495b39a271eaa4b18e1b",
+        "size_in_bytes": 5523
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/providersession.py",
+        "path_type": "hardlink",
+        "sha256": "fd1fbf847b76e2b03a6f9076048ff51da3ee263d3b675444bf6e03f80b370659",
+        "sha256_in_prefix": "fd1fbf847b76e2b03a6f9076048ff51da3ee263d3b675444bf6e03f80b370659",
+        "size_in_bytes": 33968
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/request.py",
+        "path_type": "hardlink",
+        "sha256": "24ed0b83710e08030c363eb81c94ba695921cd18a6807af243f0886db137e8d2",
+        "sha256_in_prefix": "24ed0b83710e08030c363eb81c94ba695921cd18a6807af243f0886db137e8d2",
+        "size_in_bytes": 3771
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/resolutionlist.py",
+        "path_type": "hardlink",
+        "sha256": "b074dc44c259d802ea7d075b97f3d3dd42406945542863a04e13ea173b15fccd",
+        "sha256_in_prefix": "b074dc44c259d802ea7d075b97f3d3dd42406945542863a04e13ea173b15fccd",
+        "size_in_bytes": 12209
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/schema.py",
+        "path_type": "hardlink",
+        "sha256": "31c5363547ee2f50ef90d78f90e6b2f43bb16f01dd0ac44fa50762e2a16eb2a3",
+        "sha256_in_prefix": "31c5363547ee2f50ef90d78f90e6b2f43bb16f01dd0ac44fa50762e2a16eb2a3",
+        "size_in_bytes": 15828
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/service.py",
+        "path_type": "hardlink",
+        "sha256": "a2ee7e69120c8c2ffb489476b97a137f8ffc01250cef4f63dbf84cc9010cd4c5",
+        "sha256_in_prefix": "a2ee7e69120c8c2ffb489476b97a137f8ffc01250cef4f63dbf84cc9010cd4c5",
+        "size_in_bytes": 13665
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/session.py",
+        "path_type": "hardlink",
+        "sha256": "acf1391ee92b10eac8b2676d3a9f24bc5ab800c92dca24d9936238e4899d144f",
+        "sha256_in_prefix": "acf1391ee92b10eac8b2676d3a9f24bc5ab800c92dca24d9936238e4899d144f",
+        "size_in_bytes": 18939
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/sessionoptions.py",
+        "path_type": "hardlink",
+        "sha256": "e959db07f70693c0ccafb03d27abb9c9d58e444ff8cdecdbe29a30d3712b3ee6",
+        "sha256_in_prefix": "e959db07f70693c0ccafb03d27abb9c9d58e444ff8cdecdbe29a30d3712b3ee6",
+        "size_in_bytes": 21170
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/subscriptionlist.py",
+        "path_type": "hardlink",
+        "sha256": "e8e4cc05542c6e112aeb4b5322086e37c2f97d58b7dba88d08c95cae131a3ee0",
+        "sha256_in_prefix": "e8e4cc05542c6e112aeb4b5322086e37c2f97d58b7dba88d08c95cae131a3ee0",
+        "size_in_bytes": 12606
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/testtools.py",
+        "path_type": "hardlink",
+        "sha256": "81ebcb28fe1876b3dd0edb1758faca0efe22a81814b884b4b629a53fa42a9783",
+        "sha256_in_prefix": "81ebcb28fe1876b3dd0edb1758faca0efe22a81814b884b4b629a53fa42a9783",
+        "size_in_bytes": 7731
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/topic.py",
+        "path_type": "hardlink",
+        "sha256": "d7600c64acbd7fa2615dd4facaf66df13bc65dd4c5190a7a4942d10a5f7e57ad",
+        "sha256_in_prefix": "d7600c64acbd7fa2615dd4facaf66df13bc65dd4c5190a7a4942d10a5f7e57ad",
+        "size_in_bytes": 3749
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/topiclist.py",
+        "path_type": "hardlink",
+        "sha256": "12501185036de9fec803994ef9e65db88ccb7b07e9317430a541b238fc682498",
+        "sha256_in_prefix": "12501185036de9fec803994ef9e65db88ccb7b07e9317430a541b238fc682498",
+        "size_in_bytes": 8739
+      },
+      {
+        "_path": "Lib/site-packages/blpapi/utils.py",
+        "path_type": "hardlink",
+        "sha256": "7d6fb1c442a71fffdec4049909ea1c5886af3862508a38cf63614477b773ddb4",
+        "sha256_in_prefix": "7d6fb1c442a71fffdec4049909ea1c5886af3862508a38cf63614477b773ddb4",
+        "size_in_bytes": 3374
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "blpapi",
+  "size": 199209,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://conda.anaconda.org/mbonix/win-64/blpapi-3.9.0-py36_0.tar.bz2",
+  "version": "3.9.0"
+}
